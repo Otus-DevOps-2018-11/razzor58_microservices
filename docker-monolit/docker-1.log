@@ -1,0 +1,7 @@
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+razzor58/ubuntu-tmp-file   latest              4425abea1bd6        2 minutes ago       117MB
+ubuntu                     16.04               7e87e2b3bf7a        6 weeks ago         117MB
+hello-world                latest              fce289e99eb9        2 months ago        1.84kB
+
+Контейнер отличается от образа наличием индивидуальных аттрибутов и ресурсов( имя , окружение, конфигурация)
+А так же наличием состояния(запущен/остановлен) и  лога изменений.
